@@ -22,6 +22,7 @@ C'est hackathon mondial sur les valeurs l'[Open Source](https://fr.wikipedia.org
 * des ateliers de découverte ou pratique sur des sujet respectant les valeurs de l'événement et ouverts à tout public
 * le développement de projets 
 
+
 Chaque ville/communauté choisi des défis à résoudre et est libre et responsable de l'organisation en locale. Les collaborations et connexions entre les différentes villes/communautés à l'internationale sont possibles en fonction des proximités de sujet et des envies.
 
 **Pendant 5 jours, le travail se fait sans contraintes de résultats**
@@ -41,6 +42,7 @@ Bref, Build Your Own Device for Infra Terrestrial https://frama.link/byodit
 
 ### PROGRAMME
 **Collaboration à distance et contribution possible**
+* 19h30 jeudi 1 juin - rencontre on et off line pour une session de présentation et de questions/réponses
 * En journée PROJETS hack & make, apprendre en faisant.
 * 18h Jeudi 8 Juin - Atelier découverte de l'Open Source et de l'importance du numérique libre + Libérons les données de biodiveristé avec le projet OpenBioBlitz !
 * 18h Vendredi 9 Juin - Atelier pratique sur les outils numériques collaboratifs
